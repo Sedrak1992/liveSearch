@@ -1,0 +1,30 @@
+.boxList {
+  text-align: center;
+  font-size: 25px;
+}
+input {
+  font-weight: 900;
+  font-size: 25px;
+  width: 20%;
+  padding: 10px;
+  border: 2px solid rgb(12, 12, 12);
+  border-radius: 10px;
+}
+h1 {
+  margin: 20px;
+  color: #fff;
+}
+.App li {
+  border-radius: 10px;
+  border: 2px solid #000;
+  background-color: antiquewhite;
+  color: blueviolet;
+  width: 20%;
+  margin: 10px auto;
+  padding: 10px;
+  list-style: none;
+}
+h2 {
+  color: #000;
+  font-size: 20px;
+}
